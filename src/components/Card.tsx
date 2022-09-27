@@ -1,6 +1,6 @@
 function Card() {
     return (
-      <div className="container  mx-auto ">
+      <div id="sobre" className="container  mx-auto ">
       <div className="text-center ">
         <h1 className="text-5xl pt-10 pb-5 text-black ">Sobre</h1>
       </div>
